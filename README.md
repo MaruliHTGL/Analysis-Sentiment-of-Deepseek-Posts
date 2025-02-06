@@ -4,8 +4,8 @@
 A tool to analyze posts about Deepseek AI on X app (formerly Twitter). Create 3 types of sentiment, namely positive, negative, and neutral using Vader from the NLTK python package.
 </p>
 
-- Using datasets from [this file](https://github.com/MaruliHTGL/Clustering-and-Binary-Classification-Patrick-Kluivert-Sentiments/blob/c7c3e8175f890b736d8d506035326f73f535c131/Patrick%20Kluivert.csv)
-- For the complete code please check [this file](https://github.com/MaruliHTGL/Clustering-and-Binary-Classification-Patrick-Kluivert-Sentiments/blob/171025a7e0b688c0ac6b5e4abff5290dfd3e3dfc/Patrick%20Kluivert.ipynb)
+- Using datasets from [this file](https://github.com/MaruliHTGL/Analysis-Sentiment-of-Deepseek-Posts/blob/3eaee391fb9d2fc959ef0a4178552e64e661b34f/Deepseek%20English%20Post.csv)
+- For the complete code please check [this file](https://github.com/MaruliHTGL/Analysis-Sentiment-of-Deepseek-Posts/blob/c176f5d49c1a46840d43c8bfdb5c8ba436d1628c/Deepseek%20English%20Sentiment.ipynb)
 - To test the model please visit [this link](https://deepseeksentiment.streamlit.app/)    <br> <br>
 - For positive sentiment, use this post:
   <br>
