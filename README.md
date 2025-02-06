@@ -1,7 +1,7 @@
-# NLP: Sentiment Analysis of Deepseek Posts
+# NLP: Sentiment Analysis of DeepSeek Posts
 
 <p style='text-align: justify;'>
-A tool to analyze posts about Deepseek AI on X app (formerly Twitter). Create 3 types of sentiment, namely positive, negative, and neutral using Vader from the NLTK python package.
+A tool to analyze posts about DeepSeek AI on X app (formerly Twitter). Create 3 types of sentiment, namely positive, negative, and neutral using Vader from the NLTK python package.
 </p>
 
 - Using datasets from [this file](https://github.com/MaruliHTGL/Analysis-Sentiment-of-Deepseek-Posts/blob/3eaee391fb9d2fc959ef0a4178552e64e661b34f/Deepseek%20English%20Post.csv)
