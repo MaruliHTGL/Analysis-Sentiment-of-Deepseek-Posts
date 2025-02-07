@@ -40,7 +40,7 @@ def run_ml_app():
     # clean text
     df["clean_text"] = df["Post"].apply(clean)
 
-    st.markdown("<h2 style = 'text-align: center;'> Your Post </h2>", unsafe_allow_html=True)
+    st.markdown("<h2 style = 'text-align: center;'> The Post </h2>", unsafe_allow_html=True)
 
     st.write(post)
 
